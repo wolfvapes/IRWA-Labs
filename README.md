@@ -1,4 +1,4 @@
-# Information Retrieval & Web Analytics (IRWA) Framework
+# Information Retrieval & Web Analytics (IRWA) Lab Activities
 
 This repository focuses on the technical backbone of modern search engines and text processing systems. It documents the journey from basic text manipulation to building complex data structures like Positional Indexes and implementing Boolean logic for document retrieval.
 
